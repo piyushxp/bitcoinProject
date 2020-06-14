@@ -1,6 +1,6 @@
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://github.com/piyush-mahapatra-au6) 
+
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
 
@@ -70,3 +70,4 @@ BicoinAlert is built on with Python 3.6 and IFTTT service. If you are new to thi
 ## License
 MIT © [piyush Mahapatra]()
 ![](images/bitcoin50.jpg)  |
+[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://github.com/piyush-mahapatra-au6) 

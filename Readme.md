@@ -30,7 +30,7 @@ Telegram                   |  Twitter                  | SMS
 
 ## Installation Guide:
 > step by step series of examples and explanations about how to get your development env running :)
-
+![](images/proof.png)
 
 
 ## Python Packages & Libraries Used  

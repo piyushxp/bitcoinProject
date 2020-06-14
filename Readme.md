@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/piyushcodes?style=social)](https://twitter.com/piyushcodes)
+
 ##### Build status
 [![](https://github.com/piyush-mahapatra-au6)](https://github.com/piyush-mahapatra-au6)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://github.com/piyush-mahapatra-au6)
@@ -6,7 +6,7 @@
 ##### Code style( PEP 8)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-# Bitcoin Alert 
+# Bitcoin Alert [![Twitter Follow](https://img.shields.io/twitter/follow/piyushcodes?style=social)](https://twitter.com/piyushcodes)
 
 
 ##### What is Bitcoin?

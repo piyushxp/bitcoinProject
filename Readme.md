@@ -1,3 +1,4 @@
+[![Twitter Follow](https://img.shields.io/twitter/follow/piyushcodes?style=social)](https://twitter.com/piyushcodes)
 ##### Build status
 [![](https://github.com/piyush-mahapatra-au6)](https://github.com/piyush-mahapatra-au6)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://github.com/piyush-mahapatra-au6)
@@ -61,7 +62,7 @@ Telegram                   |  Twitter                  | SMS
 BicoinAlert is built on with Python 3.6 and IFTTT service. If you are new to this ,head over to this page
 [IFTTT docs and Integration](https://platform.ifttt.com/docs)
 
-## Credits
+## Credits [![Twitter Follow](https://img.shields.io/twitter/follow/piyushcodes?style=social)](https://twitter.com/piyushcodes)
 - Medium Articles
 - Stackoverflow 
 - RealPython 

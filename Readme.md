@@ -2,10 +2,9 @@
 [![](https://github.com/piyush-mahapatra-au6)](https://github.com/piyush-mahapatra-au6)
 [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://github.com/piyush-mahapatra-au6)
 
-##### Code style
-###### auto pep-8
-
+##### Code style( PEP 8)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+
 # Bitcoin Alert 
 
 
